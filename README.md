@@ -16,6 +16,14 @@ This project predicts hourly energy consumption using XGBoost. It includes time-
 
 ---
 
+## 📂 Dataset
+
+- **Name:** Hourly Energy Consumption
+- **Source:** [Kaggle – robikscube](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption/data)
+- **File Used:** `PJME_hourly.csv`
+
+---
+
 ## 📊 Tech Stack
 
 - Python
